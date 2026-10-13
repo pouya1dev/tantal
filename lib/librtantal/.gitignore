@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rtantal
+rtantal.so
+rtantal.dylib
+rtantal.dll
+librtantal.a
+rtantal.a
+rtantal.lib
+rtantal-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

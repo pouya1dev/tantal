@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tantal
+tantal.so
+tantal.dylib
+tantal.dll
+libtantal.a
+tantal.a
+tantal.lib
+tantal-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
